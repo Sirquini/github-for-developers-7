@@ -7,3 +7,5 @@
 **Favorite food:** Lasagna
 
 **A hobby:** Playing the piano
+
+**Favorite color:** Green
